@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:DevOpsA1Pool
+  name: DevOpsA1Pool
 
 steps:
 - script: echo Hello, world!
